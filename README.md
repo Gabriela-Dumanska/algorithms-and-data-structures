@@ -1,9 +1,9 @@
-# Algorytmy i Struktury Danych
+# Algorithms and Data Structures
 
-To repozytorium zawiera rozwiązania i implementacje algorytmów przygotowanych w ramach przedmiotu **Algorytmy i Struktury Danych** w drugim semestrze kierunku Informatyka na AGH. Znajdziesz tutaj wszystkie algorytmy omawiane na zajęciach, w tym:
+This repository contains solutions and implementations of algorithms prepared as part of the course **Algorithms and Data Structures** in the second semester of the Computer Science program at AGH. You will find all the algorithms discussed in class, including:
 
-- **Algorytmy sortowania** – różne metody sortowania danych,
-- **Algorytmy grafowe** – operacje na grafach zarówno w reprezentacji listowej, jak i macierzowej,
-- **Algorytmy dynamiczne** – rozwiązywanie problemów dynamicznie poprzez rozkład na podproblemy i zapamiętywanie wyników.
+- **Sorting Algorithms** – various methods for sorting data,
+- **Graph Algorithms** – operations on graphs in both list and matrix representation,
+- **Dynamic Algorithms** – solving problems dynamically by breaking them down into subproblems and storing the results.
 
-Wszystkie implementacje zostały napisane w języku **Python** w okresie marzec-wrzesień 2023 roku.
+All implementations were written in **Python** during the period from March to September 2023.
